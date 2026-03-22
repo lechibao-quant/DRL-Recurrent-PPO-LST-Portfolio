@@ -1,5 +1,5 @@
 # 🤖 DRL Portfolio: Tối Ưu Danh Mục Đầu Tư Bằng Deep Reinforcement Learning
-
+File dữ liệu: https://drive.google.com/drive/folders/1OvhywCGDasegz_Y1o3garUkXt-PHog9z
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
