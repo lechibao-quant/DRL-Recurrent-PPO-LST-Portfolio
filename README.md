@@ -438,7 +438,7 @@ Composite score từ 3 tín hiệu (tránh MSM collapse trên high-drift market)
 
 **Lê Chí Bảo**  
 Sinh viên năm cuối FinTech · Đại học Ngân hàng TP.HCM  
-📧 lechibao.quant@gmail.com  
+📧 0772288380chibaot@gmail.com  
 🔗 [GitHub](https://github.com/lechibao-quant)
 
 ---
